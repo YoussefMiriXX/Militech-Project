@@ -1,12 +1,12 @@
-#<p align="center"><ins> Rapport Séance 2:
+# <p align="center"><ins> Rapport Séance 2:
 
-#####21 novemebre 2023
+##### 21 novemebre 2023
 
-###<ins>Résumé:
+### <ins>Résumé:
 Durant cette séance mon but principal est de continuer le travail sur la détection faciale, tout en développant le code qui permet l'identification de la personne captée par la caméra .
 
 
-###<ins>Le Code:
+### <ins>Le Code:
 
 le code utilisé se base sur les mêmes librairies utilisés pendant la première séance `OpenCv` et  `Face-recognition`
 et c'est écrit en langage Python.
@@ -92,20 +92,20 @@ while True:
 Le principe c'est que après détection de la personne, il faut aussi identifier son nom d'après une base de donnée,et signaler son nom comme `unknown` ou inconnu si son nom n'existe pas.
 Tout ça sera possible à cause des encodeurs qui vont permettre le traitement de l'image et l'identification des personnes.
 
-###<ins>Résultats:
+### <ins>Résultats:
 
 
-<img src= "C:\Users\youss\OneDrive\Desktop\Militech-Project\Youssef Miri\Images\test1.png" width="250" alt="Test1">
+<img src= "https://github.com/YoussefMiriXX/Militech-Project/blob/84bcca4dcfa7e8579100ef3f14964c127a700391/Youssef%20Miri/Images/test1.png" width="250" alt="Test1">
 
-<img src= "C:\Users\youss\OneDrive\Desktop\Militech-Project\Youssef Miri\Images\test2.png" width="275"  alt ="Test ">
+<img src= "https://github.com/YoussefMiriXX/Militech-Project/blob/4942b8eafd8b4f58cd58bf870f2dfe2e8c05c426/Youssef%20Miri/Images/Test2.png" width="275"  alt ="Test ">
 
 je remerque bien que le code utilisé m'a permit d'identifier le nom de la personne.
 
 
-###<ins>Contraintes:
+### <ins>Contraintes:
 L'identification du nom de la personne m'a obligé de changer le code utilisé dans la séance 1;Ce changement m'a permis d'identifier les noms des personnes mais en revanche j'ai perdu de la précision. 
 
-###<ins>Amélioration à faire:
+### <ins>Amélioration à faire:
 
 Pendant la séance suivante, je vais améliorer la précision et la portée de la détection faciale.
 
