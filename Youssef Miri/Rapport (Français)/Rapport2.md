@@ -99,7 +99,7 @@ Tout ça sera possible à cause des encodeurs qui vont permettre le traitement d
 
 <img src= "https://github.com/YoussefMiriXX/Militech-Project/blob/4942b8eafd8b4f58cd58bf870f2dfe2e8c05c426/Youssef%20Miri/Images/Test2.png" width="275"  alt ="Test ">
 
-je remerque bien que le code utilisé m'a permit d'identifier le nom de la personne.
+je remarque bien que le code utilisé m'a permit d'identifier le nom de la personne.
 
 
 ### <ins>Contraintes:
