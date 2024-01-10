@@ -159,6 +159,10 @@ Le chassis est désormais prêt pour mettre tous les capteurs ultra-sonores.
 
 On a amélioré aussi la rigidité du Robot le chassis est plus stable et robuste.
 
+| Militech                           | Front View                            
+| ----------------------------------- | ----------------------------------- 
+| ![Militech](https://github.com/YoussefMiriXX/Militech-Project/blob/52232dfc032dcfe40de3911cf2edf47a17fa6158/Youssef%20Miri/Images/Chassis%20Robot.jpg) | ![Militech](https://github.com/YoussefMiriXX/Militech-Project/blob/52232dfc032dcfe40de3911cf2edf47a17fa6158/Youssef%20Miri/Images/Robot%20front.jpg)| 
+
 ### <ins>La séance prochaine:
 
 La séance prochaine va être consacrée pour faire le branchement nécéssaire pour controler les deux servo-moteurs et commencer à concevoir la Tourelle.
