@@ -3,7 +3,7 @@
 ### <ins>Résumé:
 Durant cette séance j'ai réussi à controler 2 Servo-Moteurs selon la position du visage détectée par Open-Cv.
 
-## <ins> 1-Première partie de la séance:
+#### <ins> 1-Programme en Python:
 Une modification du programme de la séance passée était obligeatoire pour réussir à controler les Servos.
 Le problème était tout simplement, que mon code python, n'a pas réussi à encoder les coordonnées en Bytes pour que l'arduino peut comprendre la position du visage.
 ```
@@ -54,9 +54,14 @@ while cap.isOpened():
 cap.release()
 cv2.destroyAllWindows()
 ``` 
-###### Pour assurer le bon fonctionnement du programme il faut que l'arduino doit être connectée au port indiqué dans le programme, dans notre cas c'est le COM3.
+` Pour assurer le bon fonctionnement du programme il faut que la carte aurduino doit être connectée au port déjà indiqué dans le programme python pour avoir une communication pySerial dans notre cas c'est le COM3.`
 
-#### <ins> Code Arduino:
+#### <ins>2-Résultats:
+| Reconnaissance Faciale                          | Coordonnées Envoyées                           
+| ----------------------------------- | ----------------------------------- 
+| ![Reconnaissance](https://github.com/YoussefMiriXX/Militech-Project/blob/a575f1bd3b72b09fffa051cb5fb984d02ad46fc4/Youssef%20Miri/Images/Reconnaissance%20faciale.png) | ![Coordonnées](https://github.com/YoussefMiriXX/Militech-Project/blob/a575f1bd3b72b09fffa051cb5fb984d02ad46fc4/Youssef%20Miri/Images/Coordonnes.png)| 
+
+#### <ins> 3-Code Arduino:
 Le code Arduino reste le même.
 ```
 #include <Servo.h>
@@ -116,9 +121,26 @@ void loop()
   }
 }
 ```
-##### <ins> Résultats:
+#### <ins>4-Branchement des Servos:
 
-| Reconnaissance Faciale                          | Coordonnées envoyées                           
-| ----------------------------------- | ----------------------------------- 
-| ![Reconnaissance](https://github.com/YoussefMiriXX/Militech-Project/blob/5e6e458c49f0044f146e589d34998287a9ed114f/Youssef%20Miri/Images/Reconnaissance%20faciale.png) | ![Coordonnées](https://github.com/YoussefMiriXX/Militech-Project/blob/5e6e458c49f0044f146e589d34998287a9ed114f/Youssef%20Miri/Images/Coordonnes.png)|
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/a575f1bd3b72b09fffa051cb5fb984d02ad46fc4/Youssef%20Miri/Images/Branchement%20Servo1.jpg" width="250" alt="Branchement">
+
+
+Le circuit est assez simple. Il suffit de connecter deux servomoteurs à l'Arduino.
+
+- Vertical au Pin 5
+- Horizontal au Pin 6
+- Alimentation à +5V
+- Masse à GND
+
+##### Shéma finale:
+
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/a575f1bd3b72b09fffa051cb5fb984d02ad46fc4/Youssef%20Miri/Images/testservos.jpg" width="250" alt="Branchement">
+ 
+
+### <ins>5-Séances prochaine:
+
+A la fin de la séance j'ai eu accès à la carte 
+`Jetson Nano`une carte informatique destinée à l'intelligence artificielle (IA) embarquée et au traitement des données.Alors, pendant les séances à venir, je vais transférer tout mon programme sur la carte Jetson.
+
 
