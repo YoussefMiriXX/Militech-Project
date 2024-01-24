@@ -9,7 +9,7 @@ Le travail était divisé en plusieurs étapes.
  Le processus a commencé par la configuration matérielle, où j'ai connecté tous les composants nécessaires, tels que la carte SD, l'alimentation et les périphériques externes.
  Après avoir réussi cette étape, j'ai procédé à l'installation du système d'exploitation, en l'occurrence, probablement Ubuntu qui est  adapté à la Jetson Nano. Cette phase a été cruciale pour garantir un environnement de travail stable et performant.
 
- <img src="" width="250" alt="Jetson Nano">
+ <img src="https://github.com/YoussefMiriXX/Militech-Project/blob/71a6080021624a174ddc6273e96ba358f51d919a/Youssef%20Miri/Images/nvidia.png" width="350" alt="Jetson Nano">
 
  ### <ins>Étape 2:
  La découverte de l'interface utilisateur a été une étape intrigante, où j'ai pu explorer les fonctionnalités de Jetson Nano et prendre connaissance de son potentiel. Les premières impressions ont inclus la rapidité et la réactivité de l'appareil, ainsi que la facilité de navigation dans l'interface.
