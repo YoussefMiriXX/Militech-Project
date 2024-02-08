@@ -25,7 +25,7 @@ Désormais, le téléchargerement de VsCode est beaucoup plus facile.
 
 Il suffit de trouver le site officielle de vscode  mais attention if faut télécharger la version .deb Arm64, la version adéquate pour la jetSon nano.
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/a575f1bd3b72b09fffa051cb5fb984d02ad46fc4/Youssef%20Miri/Images/testservos.jpg" width="250" alt="Branchement">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/a5528b1e123e43b11b5bd024b7272c23d3882d57/Youssef%20Miri/Images/vscode.png" width="250" alt="Vscode">
 
 Après le téléchargement, on doit ouvrir le paquet téléchargé.
 Pour faire ça il faut aller dans le path du paquet ouvrir le terminal puis taper le code suivant:
