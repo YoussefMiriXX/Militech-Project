@@ -12,7 +12,7 @@ Il  faut  choisir la  version 8 de gcc avec ` sudo update-alternatives --config 
 Quand la version gcc est changé, l'installation passe sans aucun problème mais la Jetson se chauffe beaucoup et un message de système m'avertis que la température est élevée.
 Désormais sur `jtop` maintenant on peut voir clairement que opencv est compilé avec `Cuda`.
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/a5528b1e123e43b11b5bd024b7272c23d3882d57/Youssef%20Miri/Images/vscode.png" width="250" alt="Cuda yes">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/767fab1fe9030b44ffb8912fc9b72f906f249bb1/Youssef%20Miri/Images/cuda.png" width="300" alt="Cuda yes">
 
 #### <ins> Surveillance de Fps:
 Le programme utilisé pour surveiller toujours le rendement de la jetson pour  la reconnaissance faciale.
