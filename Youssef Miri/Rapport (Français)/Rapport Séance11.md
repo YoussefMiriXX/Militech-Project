@@ -21,7 +21,7 @@ La conception des engrenages est faite sur inkscape.
 Le petit d'engrenage est fait en plexiglas et le grand est fait en bois par découpe laser.
 
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/767fab1fe9030b44ffb8912fc9b72f906f249bb1/Youssef%20Miri/Images/cuda.png" width="300" alt="Engrenages">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/8ccb46a0ad9631af09e1d11dbcabbe0421302e2d/Youssef%20Miri/Images/Mod%C3%A8le.png" width="300" alt="Engrenages">
 
 Apès, le branchement du servo moteur à l'arduino est fait en ajoutant aussi le module bluetooth.
 Code Arduino:
@@ -70,7 +70,7 @@ En premeir temps , on a fixé sur la planche les divers éléments requis pour l
 Par la suite, on a coupé les vis dépassant de la planche en bois à l’aide d’une meuleuse
 dans le but de la visser sur le châssis en aluminium de notre robot.
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/767fab1fe9030b44ffb8912fc9b72f906f249bb1/Youssef%20Miri/Images/cuda.png" width="300" alt="Shéma finale">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/8ccb46a0ad9631af09e1d11dbcabbe0421302e2d/Youssef%20Miri/Images/Mod%C3%A8le.png" width="300" alt="Shéma finale">
 
 ### <ins>Séance prochaine:
 Au cours de la semaine prochaine, je vais poursuivre les travaux sur la tourelle afin de garantir son bon fonctionnement avec le servo utilisé.Par la suite, je prévois de construire un second étage en bois où la tourelle sera installée. 
