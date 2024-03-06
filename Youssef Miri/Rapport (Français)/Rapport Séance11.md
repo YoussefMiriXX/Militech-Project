@@ -18,7 +18,7 @@ Plusieurs tests seront faits après pour déterminer le bon rapport entre les de
 ### <ins>Déroulemet de la conception:
 
 La conception des engrenages est faite sur inkscape.
-Le petit d'engrenage est fait en plexiglas et le grand est fait en bois par découpe laser.
+Le petit d'engrenage est fait en plexiglass et le grand est fait en bois par découpe laser.
 
 
 <img src="https://github.com/YoussefMiriXX/Militech-Project/blob/efb2bc8df0fd496679bbdbb024ede58e4ff296e6/Youssef%20Miri/Images/engrenage.png" width="300" alt="Engrenages">
