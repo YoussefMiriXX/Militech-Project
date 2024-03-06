@@ -15,13 +15,13 @@ Il faut noté que le nombre de dents du grand engrenage est le double du petit.C
 
 Plusieurs tests seront faits après pour déterminer le bon rapport entre les deux ainsi je peux optimiser la vitesse de la tourelle pour avoir un bon rendememt. 
 
-### <ins>Déroulemet de la coception:
+### <ins>Déroulemet de la conception:
 
 La conception des engrenages est faite sur inkscape.
 Le petit d'engrenage est fait en plexiglas et le grand est fait en bois par découpe laser.
 
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/8ccb46a0ad9631af09e1d11dbcabbe0421302e2d/Youssef%20Miri/Images/Mod%C3%A8le.png" width="300" alt="Engrenages">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/efb2bc8df0fd496679bbdbb024ede58e4ff296e6/Youssef%20Miri/Images/engrenage.png" width="300" alt="Engrenages">
 
 Apès, le branchement du servo moteur à l'arduino est fait en ajoutant aussi le module bluetooth.
 Code Arduino:
