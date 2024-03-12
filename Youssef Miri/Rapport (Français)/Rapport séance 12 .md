@@ -19,11 +19,11 @@ C'est pourcela,j'ai décidé d'utiliser un moteur pas-à-pas caractérisé par u
 Le moteur 28BYJ-48, était un bon choix pour commencer à faire mes tests.
 Mais après plusieurs tests sur mon montage de référence j'ai trouvé que ce moteur,n'a pas un couple assez puissant pour supporter les différentes charges.En plus, sa vitesse maximale est 10 tours par minute ce qui peut être insuffisant.
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/d6148e4d0149983cd2cce7f39dd90c2842860e57/Youssef%20Miri/Images/servo-potenc.jpg" width="250" alt="Branchement">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/c1dc864fc7ad6997a770773d9369644d1cf8b4a4/Youssef%20Miri/Images/branchement1.png" width="350" alt="Branchement">
 
 #### <ins> Montage de référence:
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/d6148e4d0149983cd2cce7f39dd90c2842860e57/Youssef%20Miri/Images/servo-potenc.jpg" width="250" alt="Branchement">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/c1dc864fc7ad6997a770773d9369644d1cf8b4a4/Youssef%20Miri/Images/shema%20ref.jpg" width="250" alt="Branchement">
 
 ### <ins> 2-Moteur pas-à-pas NEMA17:
 
@@ -32,7 +32,7 @@ Le NEMA17 effectue 200 pas pour faire une rotation complète de 360 degrés. Cel
 Le module pilote de moteur pas à pas A4988 est utilisé pour contrôler le moteur pas à pas NEMA17. 
 
 #### <ins>Branchement:
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/d6148e4d0149983cd2cce7f39dd90c2842860e57/Youssef%20Miri/Images/servo-potenc.jpg" width="250" alt="Branchement">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/c1dc864fc7ad6997a770773d9369644d1cf8b4a4/Youssef%20Miri/Images/branchement%202.png" width="350" alt="Branchement">
 
 Le moteur NEMA17, est le choix idéale pour faire tourner la tourelle avec du couple mais aussi avec vitesse beaucoup plus grande que le  28BYJ-48.
 
