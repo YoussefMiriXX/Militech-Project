@@ -20,6 +20,6 @@ Par la suite, j'ai employé une perceuse afin de percer le bois dans les endroit
 La vis et la rondelle étaient utilisées pour fixer le moteur.
 
 ### <ins>Montage finale:
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/c1dc864fc7ad6997a770773d9369644d1cf8b4a4/Youssef%20Miri/Images/branchement1.png" width="350" alt="Montage1">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/6ddceeeee3cdf72fbfcc0a8550102b529ba67dbf/Youssef%20Miri/Images/montage1.jpg" width="350" alt="Montage1">
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/c1dc864fc7ad6997a770773d9369644d1cf8b4a4/Youssef%20Miri/Images/branchement1.png" width="350" alt="Montage1">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/6ddceeeee3cdf72fbfcc0a8550102b529ba67dbf/Youssef%20Miri/Images/montage2.jpg" width="350" alt="Grand engrenage à changer">
