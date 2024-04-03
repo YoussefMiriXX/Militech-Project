@@ -15,7 +15,7 @@ Une fois que le moteur a été connecté et alimenté, je constate qu'il ne fonc
 Après avoir testé les différentes pines du moteur, j'ai constaté qu'il y avait un souci, donc j'ai pris la décision de le remplacer .
 
 ### <ins>Branchement:
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/efb2bc8df0fd496679bbdbb024ede58e4ff296e6/Youssef%20Miri/Images/engrenage.png" width="300" alt="Engrenages">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/f6d337f770651e6c54c26474f5577b12564c7617/Youssef%20Miri/Images/Branchement%20stepper.png" width="800" alt="Engrenages">
 
 ### <ins>Programme Arduino:
 
@@ -61,4 +61,4 @@ J'ai également travaillé sur la Jetson Nano. Finalement, j'ai réussi à trans
 
 Afin de mettre à l'épreuve le travail, j'ai pu gérer 5 LED avec un arduino en fonction du nombre de doigts détectés par ma Jetson.
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/efb2bc8df0fd496679bbdbb024ede58e4ff296e6/Youssef%20Miri/Images/engrenage.png" width="300" alt="Engrenages">
+<img src="" width="300" alt="Engrenages">
