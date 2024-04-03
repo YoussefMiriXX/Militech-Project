@@ -1,9 +1,8 @@
 # <p align="center"><ins> Rapport Séance 14
-<<<<<<< HEAD
+
 ##### 3 Mars 2024
-=======
 ##### 29 Mars 2024
->>>>>>> 065557dff537a4e2bf09aa21a7bb65ceee75eeae
+
 ### <ins>Résumé:
 Pendant cette séance, j'ai rencontré plusieurs problèmes avec les engrenages.
 Donc c'était nécéssaire de remodéliser de nouveaux des engrenages.
