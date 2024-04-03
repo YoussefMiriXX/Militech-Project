@@ -1,6 +1,5 @@
 # <p align="center"><ins> Rapport Séance 14
 
-##### 3 Mars 2024
 ##### 29 Mars 2024
 
 ### <ins>Résumé:
