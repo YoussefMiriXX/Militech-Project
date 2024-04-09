@@ -45,7 +45,9 @@ il suffit d'utiliser cette commande pour utiliser YOLOV8.
 ```
 yolo task=detect mode=predict model=yolov8n.pt source=0 show=True # source=0 avoir accès à la caméra intégrée.
 ```
+
 <ins>Résultats:
+
 <img src="https://github.com/YoussefMiriXX/Militech-Project/blob/394fdbeef3926accb4aeb917ccf40e68b797f615/Youssef%20Miri/Images/yolo.png" width="350" alt="Hello Yolo">
 
 Le model yolov8n est incroyable pour la détection des objets il offre en plus l'opportunité d'entrainer notre propre modèle et faire ainsi une détection.
