@@ -97,5 +97,5 @@ def led(class_label):            # Notre fonction led() qui reçoit la valeur cl
 ```
 ### <ins> Résultats:
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/394fdbeef3926accb4aeb917ccf40e68b797f615/Youssef%20Miri/Images/yolo.png" width="350" alt="YOLO In action">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/a6c08130f7f0c38678cf51e86f93c9a66066de94/Youssef%20Miri/Images/YIA.jpg" width="400" alt="YOLO In action">
 
