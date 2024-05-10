@@ -167,8 +167,10 @@ On peut voir que l'initialisation des Pins Step et Dir se fait comme une simple 
 
 La classe `Person` est changé par `Target`.
 
-Si le programme ne détecte pas la cible qui est `Target`, le Moteur Pas à pas continuer à tourner avec un pas 40 et le servo sera toujours sur position 0 degrès.
+Si le programme ne détecte pas la cible qui est `Target`, le moteur pas à pas continue à tourner avec un pas de 40 et le servo sera toujours sur la position 0 degrès.
 
-Dans le cas où une cible est détectée, le pas à pas arrête et le servo prend une position de 90 degrès pour appuyer sur un boutton qui déclenche par suite le cannon magnétique.
+Dans le cas où une cible est détectée, le moteur pas à pas arrête et le servo prend une position de 90 degrès pour appuyer sur un boutton qui déclenche par suite le cannon magnétique.
 2 Leds et un Laser vont être allumé ainsi.
+
+`Une vidéo qui présente le fonctionnement complet sera montré dans le rapport finale de la soutenance.`
 
