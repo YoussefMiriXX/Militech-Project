@@ -12,14 +12,14 @@ En plus, j'ai réussi à controler un servo moteur et un moteur pas à pas.
 
 Pour entrainer un modèle, il faut avant tous construire une base de donnée pour l'objet qu'on veut détecter.
 
-Cette étape peut être trop lente, et difficile parfois car il faut collecter à peu près 700 images pour une seule classe puis après "labeliser" chaque image.Ce qui consiste à tracer des rectangle autour de l'objet désiré.
+Cette étape peut être trop lente, et difficile parfois car il faut collecter à peu près 700 images pour une seule classe puis après "labeliser" chaque image.Ce qui consiste à tracer des rectangles autour de l'objet désiré.
 
 Roboflow est un site open-source qui nous permet de labeliser des images collectées.
 Mais pour fasciliter le boulot, Robolow Universe offre l'opportunité d'utiliser des bases de données déjà faite par des collaborateurs.
 Heureusement, j'ai pu trouvé une base de donnée qui détecte que des cibles.
 #### <ins> Éxemple d'une image Labelisé:
 
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/394fdbeef3926accb4aeb917ccf40e68b797f615/Youssef%20Miri/Images/yolo.png" width="350" alt="Label">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/d1da8614aa5dbbff6a5da18aa22904fa01e4ef2a/Youssef%20Miri/Images/Exemble%20label.png" width="350" alt="Label">
 
 
 #### <ins> 2- Entrainer le modèle:
@@ -31,11 +31,11 @@ Pour faire face à ce problème, j'ai décidé d'utilisé `Collab` une plateform
 #### <ins>Lien du Collab:
 `https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb`
 
-L'entrainement prend environ 15 minutes pour 150 Epochs.
+L'entrainement prend environ 15 minutes pour 150 Epochs.Il ne faut pas abuser avec le nombre d'Epochs pour ne pas avoir une sur saturation du modèle. 
 
 
 #### <ins> Résultats:
-<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/394fdbeef3926accb4aeb917ccf40e68b797f615/Youssef%20Miri/Images/yolo.png" width="350" alt="Label">
+<img src="https://github.com/YoussefMiriXX/Militech-Project/blob/d1da8614aa5dbbff6a5da18aa22904fa01e4ef2a/Youssef%20Miri/Images/Target%20detec.png" width="350" alt="Label">
 
 `La détection était un succès.`
 
@@ -45,7 +45,7 @@ L'entrainement prend environ 15 minutes pour 150 Epochs.
 Le modèle entrainé, est exporté sous format `tensorrt fp16` sur la jetson, ce qui permet d'optimiser le rendement et la précision.
 J'ai reçu à avoir `20 FPS` ce qui est suffisant. 
 
-### <ins> Controle du Servo Moteur et du moteur pas à pas:
+### <ins> Contrôle du Servo Moteur et du moteur pas à pas:
 
 Pyfirmata permet facilement de contrôler un servo-moteur il faut préciser le mode du Pin dans le code qui sera forcément SERVO. Par rapport au Stepper, le code de l'initialisation est le même d'une simple LED.
 
